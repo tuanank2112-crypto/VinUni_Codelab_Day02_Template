@@ -1,0 +1,1043 @@
+{
+  "description": "60 synthetic tickets. fixture_extractions are authored labels, NOT LLM outputs.",
+  "tickets": [
+    {
+      "id": "T001",
+      "apartment": "A1201",
+      "minute": 0,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T002",
+      "apartment": "A1301",
+      "minute": 5,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T003",
+      "apartment": "A1401",
+      "minute": 10,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T004",
+      "apartment": "A1205",
+      "minute": 15,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T005",
+      "apartment": null,
+      "minute": 20,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T006",
+      "apartment": "A1405",
+      "minute": 25,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        0,
+        480
+      ]
+    },
+    {
+      "id": "T007",
+      "apartment": "B1201",
+      "minute": 30,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T008",
+      "apartment": "B1301",
+      "minute": 35,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T009",
+      "apartment": "B1401",
+      "minute": 40,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T010",
+      "apartment": "B1205",
+      "minute": 45,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T011",
+      "apartment": null,
+      "minute": 50,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T012",
+      "apartment": "B1405",
+      "minute": 55,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        30,
+        480
+      ]
+    },
+    {
+      "id": "T013",
+      "apartment": "A1201",
+      "minute": 60,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T014",
+      "apartment": "A1301",
+      "minute": 65,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T015",
+      "apartment": "A1401",
+      "minute": 70,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T016",
+      "apartment": "A1205",
+      "minute": 75,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T017",
+      "apartment": null,
+      "minute": 80,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T018",
+      "apartment": "A1405",
+      "minute": 85,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        60,
+        480
+      ]
+    },
+    {
+      "id": "T019",
+      "apartment": "B1201",
+      "minute": 90,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T020",
+      "apartment": "B1301",
+      "minute": 95,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T021",
+      "apartment": "B1401",
+      "minute": 100,
+      "text": "Bồn rửa gần như mất nước. Ghi chú tổng đài lại ghi nước vẫn bình thường, cần gọi xác minh.",
+      "conflict": true,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T022",
+      "apartment": "B1205",
+      "minute": 105,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T023",
+      "apartment": null,
+      "minute": 110,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T024",
+      "apartment": "B1405",
+      "minute": 115,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        90,
+        480
+      ]
+    },
+    {
+      "id": "T025",
+      "apartment": "A1201",
+      "minute": 120,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T026",
+      "apartment": "A1301",
+      "minute": 125,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T027",
+      "apartment": "A1401",
+      "minute": 130,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T028",
+      "apartment": "A1205",
+      "minute": 135,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T029",
+      "apartment": null,
+      "minute": 140,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T030",
+      "apartment": "A1405",
+      "minute": 145,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        120,
+        480
+      ]
+    },
+    {
+      "id": "T031",
+      "apartment": "B1201",
+      "minute": 150,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T032",
+      "apartment": "B1301",
+      "minute": 155,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T033",
+      "apartment": "B1401",
+      "minute": 160,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T034",
+      "apartment": "B1205",
+      "minute": 165,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T035",
+      "apartment": null,
+      "minute": 170,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T036",
+      "apartment": "B1405",
+      "minute": 175,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        150,
+        480
+      ]
+    },
+    {
+      "id": "T037",
+      "apartment": "A1201",
+      "minute": 180,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T038",
+      "apartment": "A1301",
+      "minute": 185,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T039",
+      "apartment": "A1401",
+      "minute": 190,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T040",
+      "apartment": "A1205",
+      "minute": 195,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T041",
+      "apartment": null,
+      "minute": 200,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T042",
+      "apartment": "A1405",
+      "minute": 205,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        180,
+        480
+      ]
+    },
+    {
+      "id": "T043",
+      "apartment": "B1201",
+      "minute": 210,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T044",
+      "apartment": "B1301",
+      "minute": 215,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T045",
+      "apartment": "B1401",
+      "minute": 220,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T046",
+      "apartment": "B1205",
+      "minute": 225,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T047",
+      "apartment": null,
+      "minute": 230,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T048",
+      "apartment": "B1405",
+      "minute": 235,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        210,
+        480
+      ]
+    },
+    {
+      "id": "T049",
+      "apartment": "A1201",
+      "minute": 240,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T050",
+      "apartment": "A1301",
+      "minute": 245,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T051",
+      "apartment": "A1401",
+      "minute": 250,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T052",
+      "apartment": "A1205",
+      "minute": 255,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T053",
+      "apartment": null,
+      "minute": 260,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T054",
+      "apartment": "A1405",
+      "minute": 265,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        240,
+        480
+      ]
+    },
+    {
+      "id": "T055",
+      "apartment": "B1201",
+      "minute": 270,
+      "text": "Vòi sen chảy rất yếu.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    },
+    {
+      "id": "T056",
+      "apartment": "B1301",
+      "minute": 275,
+      "text": "Máy giặt không lấy được nước.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    },
+    {
+      "id": "T057",
+      "apartment": "B1401",
+      "minute": 280,
+      "text": "Bồn rửa gần như mất nước.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    },
+    {
+      "id": "T058",
+      "apartment": "B1205",
+      "minute": 285,
+      "text": "Điều hòa chảy nước.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    },
+    {
+      "id": "T059",
+      "apartment": null,
+      "minute": 290,
+      "text": "Nước yếu nhưng không rõ căn hộ.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    },
+    {
+      "id": "T060",
+      "apartment": "B1405",
+      "minute": 295,
+      "text": "Nước ngập gần tủ điện có khói.",
+      "conflict": false,
+      "access": [
+        270,
+        480
+      ]
+    }
+  ],
+  "fixture_extractions": [
+    {
+      "id": "T001",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T002",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T003",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T004",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T005",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T006",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T007",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T008",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T009",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T010",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T011",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T012",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T013",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T014",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T015",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T016",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T017",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T018",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T019",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T020",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T021",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T022",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T023",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T024",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T025",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T026",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T027",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T028",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T029",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T030",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T031",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T032",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T033",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T034",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T035",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T036",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T037",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T038",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T039",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T040",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T041",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T042",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T043",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T044",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T045",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T046",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T047",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T048",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T049",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T050",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T051",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T052",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T053",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T054",
+      "symptom": "other",
+      "emergency": true
+    },
+    {
+      "id": "T055",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T056",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T057",
+      "symptom": "no_water",
+      "emergency": false
+    },
+    {
+      "id": "T058",
+      "symptom": "ac_leak",
+      "emergency": false
+    },
+    {
+      "id": "T059",
+      "symptom": "low_water",
+      "emergency": false
+    },
+    {
+      "id": "T060",
+      "symptom": "other",
+      "emergency": true
+    }
+  ],
+  "topology": {
+    "A1201": "A-R1",
+    "A1205": "A-R2",
+    "A1301": "A-R1",
+    "A1305": "A-R2",
+    "A1401": "A-R1",
+    "A1405": "A-R2",
+    "A1501": "A-R1",
+    "A1505": "A-R2",
+    "A1601": "A-R1",
+    "A1605": "A-R2",
+    "B1201": "B-R1",
+    "B1205": "B-R2",
+    "B1301": "B-R1",
+    "B1305": "B-R2",
+    "B1401": "B-R1",
+    "B1405": "B-R2",
+    "B1501": "B-R1",
+    "B1505": "B-R2",
+    "B1601": "B-R1",
+    "B1605": "B-R2"
+  },
+  "technicians": [
+    {
+      "id": "K1",
+      "skills": [
+        "water"
+      ],
+      "shift": [
+        0,
+        480
+      ],
+      "available_from": 0,
+      "zone": "A-R1"
+    },
+    {
+      "id": "K2",
+      "skills": [
+        "water"
+      ],
+      "shift": [
+        0,
+        480
+      ],
+      "available_from": 0,
+      "zone": "B-R1"
+    },
+    {
+      "id": "K3",
+      "skills": [
+        "water"
+      ],
+      "shift": [
+        0,
+        480
+      ],
+      "available_from": 0,
+      "zone": "A-R1"
+    },
+    {
+      "id": "K4",
+      "skills": [
+        "hvac"
+      ],
+      "shift": [
+        0,
+        480
+      ],
+      "available_from": 0,
+      "zone": "B-R1"
+    }
+  ],
+  "inventory": {
+    "valve": 1,
+    "pressure_gauge": 2
+  }
+}

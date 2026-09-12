@@ -1,0 +1,659 @@
+{
+  "mode": "offline_fixture_not_llm",
+  "ticket_count": 60,
+  "proposal": {
+    "groups": [
+      {
+        "id": "I001",
+        "zone": "A-R1",
+        "first_minute": 0,
+        "ticket_ids": [
+          "T001",
+          "T002",
+          "T003"
+        ],
+        "reported_apartments": [
+          "A1201",
+          "A1301",
+          "A1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T001",
+            "symptom": "low_water",
+            "zone": "A-R1",
+            "minute": 0
+          },
+          {
+            "ticket_id": "T002",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 5
+          },
+          {
+            "ticket_id": "T003",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 10
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "A1201",
+          "A1301",
+          "A1401",
+          "A1501",
+          "A1601"
+        ]
+      },
+      {
+        "id": "I002",
+        "zone": "B-R1",
+        "first_minute": 30,
+        "ticket_ids": [
+          "T007",
+          "T008",
+          "T009"
+        ],
+        "reported_apartments": [
+          "B1201",
+          "B1301",
+          "B1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T007",
+            "symptom": "low_water",
+            "zone": "B-R1",
+            "minute": 30
+          },
+          {
+            "ticket_id": "T008",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 35
+          },
+          {
+            "ticket_id": "T009",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 40
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "B1201",
+          "B1301",
+          "B1401",
+          "B1501",
+          "B1601"
+        ]
+      },
+      {
+        "id": "I003",
+        "zone": "A-R1",
+        "first_minute": 60,
+        "ticket_ids": [
+          "T013",
+          "T014",
+          "T015"
+        ],
+        "reported_apartments": [
+          "A1201",
+          "A1301",
+          "A1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T013",
+            "symptom": "low_water",
+            "zone": "A-R1",
+            "minute": 60
+          },
+          {
+            "ticket_id": "T014",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 65
+          },
+          {
+            "ticket_id": "T015",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 70
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "A1201",
+          "A1301",
+          "A1401",
+          "A1501",
+          "A1601"
+        ]
+      },
+      {
+        "id": "I004",
+        "zone": "B-R1",
+        "first_minute": 90,
+        "ticket_ids": [
+          "T019",
+          "T020"
+        ],
+        "reported_apartments": [
+          "B1201",
+          "B1301"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T019",
+            "symptom": "low_water",
+            "zone": "B-R1",
+            "minute": 90
+          },
+          {
+            "ticket_id": "T020",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 95
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "B1201",
+          "B1301",
+          "B1401",
+          "B1501",
+          "B1601"
+        ]
+      },
+      {
+        "id": "I005",
+        "zone": "A-R1",
+        "first_minute": 120,
+        "ticket_ids": [
+          "T025",
+          "T026",
+          "T027"
+        ],
+        "reported_apartments": [
+          "A1201",
+          "A1301",
+          "A1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T025",
+            "symptom": "low_water",
+            "zone": "A-R1",
+            "minute": 120
+          },
+          {
+            "ticket_id": "T026",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 125
+          },
+          {
+            "ticket_id": "T027",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 130
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "A1201",
+          "A1301",
+          "A1401",
+          "A1501",
+          "A1601"
+        ]
+      },
+      {
+        "id": "I006",
+        "zone": "B-R1",
+        "first_minute": 150,
+        "ticket_ids": [
+          "T031",
+          "T032",
+          "T033"
+        ],
+        "reported_apartments": [
+          "B1201",
+          "B1301",
+          "B1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T031",
+            "symptom": "low_water",
+            "zone": "B-R1",
+            "minute": 150
+          },
+          {
+            "ticket_id": "T032",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 155
+          },
+          {
+            "ticket_id": "T033",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 160
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "B1201",
+          "B1301",
+          "B1401",
+          "B1501",
+          "B1601"
+        ]
+      },
+      {
+        "id": "I007",
+        "zone": "A-R1",
+        "first_minute": 180,
+        "ticket_ids": [
+          "T037",
+          "T038",
+          "T039"
+        ],
+        "reported_apartments": [
+          "A1201",
+          "A1301",
+          "A1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T037",
+            "symptom": "low_water",
+            "zone": "A-R1",
+            "minute": 180
+          },
+          {
+            "ticket_id": "T038",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 185
+          },
+          {
+            "ticket_id": "T039",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 190
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "A1201",
+          "A1301",
+          "A1401",
+          "A1501",
+          "A1601"
+        ]
+      },
+      {
+        "id": "I008",
+        "zone": "B-R1",
+        "first_minute": 210,
+        "ticket_ids": [
+          "T043",
+          "T044",
+          "T045"
+        ],
+        "reported_apartments": [
+          "B1201",
+          "B1301",
+          "B1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T043",
+            "symptom": "low_water",
+            "zone": "B-R1",
+            "minute": 210
+          },
+          {
+            "ticket_id": "T044",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 215
+          },
+          {
+            "ticket_id": "T045",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 220
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "B1201",
+          "B1301",
+          "B1401",
+          "B1501",
+          "B1601"
+        ]
+      },
+      {
+        "id": "I009",
+        "zone": "A-R1",
+        "first_minute": 240,
+        "ticket_ids": [
+          "T049",
+          "T050",
+          "T051"
+        ],
+        "reported_apartments": [
+          "A1201",
+          "A1301",
+          "A1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T049",
+            "symptom": "low_water",
+            "zone": "A-R1",
+            "minute": 240
+          },
+          {
+            "ticket_id": "T050",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 245
+          },
+          {
+            "ticket_id": "T051",
+            "symptom": "no_water",
+            "zone": "A-R1",
+            "minute": 250
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "A1201",
+          "A1301",
+          "A1401",
+          "A1501",
+          "A1601"
+        ]
+      },
+      {
+        "id": "I010",
+        "zone": "B-R1",
+        "first_minute": 270,
+        "ticket_ids": [
+          "T055",
+          "T056",
+          "T057"
+        ],
+        "reported_apartments": [
+          "B1201",
+          "B1301",
+          "B1401"
+        ],
+        "status": "hypothesis",
+        "cause_confirmed": false,
+        "evidence": [
+          {
+            "ticket_id": "T055",
+            "symptom": "low_water",
+            "zone": "B-R1",
+            "minute": 270
+          },
+          {
+            "ticket_id": "T056",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 275
+          },
+          {
+            "ticket_id": "T057",
+            "symptom": "no_water",
+            "zone": "B-R1",
+            "minute": 280
+          }
+        ],
+        "missing": [
+          "Đo áp lực và kiểm tra nhánh chung",
+          "Xác minh nguyên nhân từng hộ"
+        ],
+        "potential_apartments": [
+          "B1201",
+          "B1301",
+          "B1401",
+          "B1501",
+          "B1601"
+        ]
+      }
+    ],
+    "manual_review": [
+      "T004",
+      "T005",
+      "T010",
+      "T011",
+      "T016",
+      "T017",
+      "T021",
+      "T022",
+      "T023",
+      "T028",
+      "T029",
+      "T034",
+      "T035",
+      "T040",
+      "T041",
+      "T046",
+      "T047",
+      "T052",
+      "T053",
+      "T058",
+      "T059"
+    ],
+    "urgent_review": [
+      "T006",
+      "T012",
+      "T018",
+      "T024",
+      "T030",
+      "T036",
+      "T042",
+      "T048",
+      "T054",
+      "T060"
+    ]
+  },
+  "initial_plan": {
+    "draft_only": true,
+    "scheduled": [
+      {
+        "task_id": "inspect",
+        "technician": "K1",
+        "start": 15,
+        "end": 35,
+        "travel": 0,
+        "draft_only": true
+      }
+    ],
+    "blocked": []
+  },
+  "replanned": {
+    "draft_only": true,
+    "scheduled": [
+      {
+        "task_id": "repair",
+        "technician": "K3",
+        "start": 35,
+        "end": 65,
+        "travel": 0,
+        "draft_only": true
+      },
+      {
+        "task_id": "verify",
+        "technician": "K3",
+        "start": 65,
+        "end": 80,
+        "travel": 0,
+        "draft_only": true
+      }
+    ],
+    "blocked": []
+  },
+  "partial_close_blocked": true,
+  "final_incident": {
+    "id": "I001",
+    "zone": "A-R1",
+    "first_minute": 0,
+    "ticket_ids": [
+      "T001",
+      "T002",
+      "T003"
+    ],
+    "reported_apartments": [
+      "A1201",
+      "A1301",
+      "A1401"
+    ],
+    "status": "closed",
+    "cause_confirmed": true,
+    "evidence": [
+      {
+        "ticket_id": "T001",
+        "symptom": "low_water",
+        "zone": "A-R1",
+        "minute": 0
+      },
+      {
+        "ticket_id": "T002",
+        "symptom": "no_water",
+        "zone": "A-R1",
+        "minute": 5
+      },
+      {
+        "ticket_id": "T003",
+        "symptom": "no_water",
+        "zone": "A-R1",
+        "minute": 10
+      }
+    ],
+    "missing": [
+      "Đo áp lực và kiểm tra nhánh chung",
+      "Xác minh nguyên nhân từng hộ"
+    ],
+    "potential_apartments": [
+      "A1201",
+      "A1301",
+      "A1401",
+      "A1501",
+      "A1601"
+    ],
+    "history": [
+      {
+        "target": "inspection_planned",
+        "approved": true,
+        "evidence": null
+      },
+      {
+        "target": "inspected",
+        "approved": true,
+        "evidence": {
+          "common_cause_confirmed": true,
+          "note": "GIẢ LẬP: kiểm tra xác nhận van nhánh cần sửa"
+        }
+      },
+      {
+        "target": "repair_planned",
+        "approved": true,
+        "evidence": null
+      },
+      {
+        "target": "verification",
+        "approved": true,
+        "evidence": {
+          "note": "GIẢ LẬP: sửa xong, cần xác minh từng hộ"
+        }
+      },
+      {
+        "target": "closed",
+        "approved": true,
+        "evidence": {
+          "resolved_ticket_ids": [
+            "T001",
+            "T002",
+            "T003"
+          ]
+        }
+      }
+    ]
+  },
+  "inspection_only_comparison": {
+    "fifo": {
+      "inspection_jobs": 3,
+      "labor_minutes": 60,
+      "travel_minutes": 10,
+      "blocked_jobs": 0
+    },
+    "simple_rule": {
+      "inspection_jobs": 1,
+      "labor_minutes": 20,
+      "travel_minutes": 0,
+      "blocked_jobs": 0
+    },
+    "topology_hypothesis": {
+      "inspection_jobs": 1,
+      "labor_minutes": 20,
+      "travel_minutes": 0,
+      "blocked_jobs": 0
+    }
+  },
+  "limitations": "3-ticket illustrative workload only; no disruption/SLA/business improvement claim; simple_rule ties topology here."
+}

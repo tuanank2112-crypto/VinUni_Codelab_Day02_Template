@@ -1,0 +1,38 @@
+{
+  "mode": "offline_fixture_not_llm",
+  "ticket_count": 60,
+  "tp": 24,
+  "fp": 4,
+  "fn": 2,
+  "precision": 0.8571428571428571,
+  "recall": 0.9230769230769231,
+  "false_positive_pairs": [
+    [
+      "T025",
+      "T027"
+    ],
+    [
+      "T026",
+      "T027"
+    ],
+    [
+      "T043",
+      "T045"
+    ],
+    [
+      "T044",
+      "T045"
+    ]
+  ],
+  "missed_pairs": [
+    [
+      "T019",
+      "T021"
+    ],
+    [
+      "T020",
+      "T021"
+    ]
+  ],
+  "note": "Manual/urgent tickets count as ungrouped; labels never provided to grouping engine."
+}

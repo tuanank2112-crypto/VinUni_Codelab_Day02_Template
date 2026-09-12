@@ -1,0 +1,242 @@
+[
+  {
+    "id": "T001",
+    "synthetic_cause": "common-0"
+  },
+  {
+    "id": "T002",
+    "synthetic_cause": "common-0"
+  },
+  {
+    "id": "T003",
+    "synthetic_cause": "common-0"
+  },
+  {
+    "id": "T004",
+    "synthetic_cause": "separate-3"
+  },
+  {
+    "id": "T005",
+    "synthetic_cause": "separate-4"
+  },
+  {
+    "id": "T006",
+    "synthetic_cause": "separate-5"
+  },
+  {
+    "id": "T007",
+    "synthetic_cause": "common-1"
+  },
+  {
+    "id": "T008",
+    "synthetic_cause": "common-1"
+  },
+  {
+    "id": "T009",
+    "synthetic_cause": "common-1"
+  },
+  {
+    "id": "T010",
+    "synthetic_cause": "separate-9"
+  },
+  {
+    "id": "T011",
+    "synthetic_cause": "separate-10"
+  },
+  {
+    "id": "T012",
+    "synthetic_cause": "separate-11"
+  },
+  {
+    "id": "T013",
+    "synthetic_cause": "common-2"
+  },
+  {
+    "id": "T014",
+    "synthetic_cause": "common-2"
+  },
+  {
+    "id": "T015",
+    "synthetic_cause": "common-2"
+  },
+  {
+    "id": "T016",
+    "synthetic_cause": "separate-15"
+  },
+  {
+    "id": "T017",
+    "synthetic_cause": "separate-16"
+  },
+  {
+    "id": "T018",
+    "synthetic_cause": "separate-17"
+  },
+  {
+    "id": "T019",
+    "synthetic_cause": "common-3"
+  },
+  {
+    "id": "T020",
+    "synthetic_cause": "common-3"
+  },
+  {
+    "id": "T021",
+    "synthetic_cause": "common-3"
+  },
+  {
+    "id": "T022",
+    "synthetic_cause": "separate-21"
+  },
+  {
+    "id": "T023",
+    "synthetic_cause": "separate-22"
+  },
+  {
+    "id": "T024",
+    "synthetic_cause": "separate-23"
+  },
+  {
+    "id": "T025",
+    "synthetic_cause": "common-4"
+  },
+  {
+    "id": "T026",
+    "synthetic_cause": "common-4"
+  },
+  {
+    "id": "T027",
+    "synthetic_cause": "local-valve-26"
+  },
+  {
+    "id": "T028",
+    "synthetic_cause": "separate-27"
+  },
+  {
+    "id": "T029",
+    "synthetic_cause": "separate-28"
+  },
+  {
+    "id": "T030",
+    "synthetic_cause": "separate-29"
+  },
+  {
+    "id": "T031",
+    "synthetic_cause": "common-5"
+  },
+  {
+    "id": "T032",
+    "synthetic_cause": "common-5"
+  },
+  {
+    "id": "T033",
+    "synthetic_cause": "common-5"
+  },
+  {
+    "id": "T034",
+    "synthetic_cause": "separate-33"
+  },
+  {
+    "id": "T035",
+    "synthetic_cause": "separate-34"
+  },
+  {
+    "id": "T036",
+    "synthetic_cause": "separate-35"
+  },
+  {
+    "id": "T037",
+    "synthetic_cause": "common-6"
+  },
+  {
+    "id": "T038",
+    "synthetic_cause": "common-6"
+  },
+  {
+    "id": "T039",
+    "synthetic_cause": "common-6"
+  },
+  {
+    "id": "T040",
+    "synthetic_cause": "separate-39"
+  },
+  {
+    "id": "T041",
+    "synthetic_cause": "separate-40"
+  },
+  {
+    "id": "T042",
+    "synthetic_cause": "separate-41"
+  },
+  {
+    "id": "T043",
+    "synthetic_cause": "common-7"
+  },
+  {
+    "id": "T044",
+    "synthetic_cause": "common-7"
+  },
+  {
+    "id": "T045",
+    "synthetic_cause": "local-valve-44"
+  },
+  {
+    "id": "T046",
+    "synthetic_cause": "separate-45"
+  },
+  {
+    "id": "T047",
+    "synthetic_cause": "separate-46"
+  },
+  {
+    "id": "T048",
+    "synthetic_cause": "separate-47"
+  },
+  {
+    "id": "T049",
+    "synthetic_cause": "common-8"
+  },
+  {
+    "id": "T050",
+    "synthetic_cause": "common-8"
+  },
+  {
+    "id": "T051",
+    "synthetic_cause": "common-8"
+  },
+  {
+    "id": "T052",
+    "synthetic_cause": "separate-51"
+  },
+  {
+    "id": "T053",
+    "synthetic_cause": "separate-52"
+  },
+  {
+    "id": "T054",
+    "synthetic_cause": "separate-53"
+  },
+  {
+    "id": "T055",
+    "synthetic_cause": "common-9"
+  },
+  {
+    "id": "T056",
+    "synthetic_cause": "common-9"
+  },
+  {
+    "id": "T057",
+    "synthetic_cause": "common-9"
+  },
+  {
+    "id": "T058",
+    "synthetic_cause": "separate-57"
+  },
+  {
+    "id": "T059",
+    "synthetic_cause": "separate-58"
+  },
+  {
+    "id": "T060",
+    "synthetic_cause": "separate-59"
+  }
+]
